@@ -1,6 +1,6 @@
 <h1 align="center">Hello Coders!! 👋</h1>
 <h2 align="center">I'm Uday Palli 🙋‍♂️</h2>
-<h4 align="center">Aspiring Full-Stack Java Developer | MCA @ PAHSU | 2nd Ranker 🏅 | Code Enthusiast 🔥</h4>
+<h4 align="center">💻 Aspiring Full-Stack Java Developer | 🎓 MCA @ PAHSU | 🥈 2nd Ranker | 💡 Code Enthusiast</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udaypalli&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -10,10 +10,10 @@
 
 ---
 
-🎯 I’m Uday, MCA graduate and ranked **2nd in university** with a deep passion for building robust and scalable applications.  
-👨‍💻 Java is my primary language, but I love exploring all things tech.  
-🎤 I'm a confident speaker, a learner-for-life, and always excited about new tech!  
-🚀 Outside of code, I enjoy connecting with new minds and exchanging ideas on tech, education, and productivity.  
+🎯 I’m Uday, an MCA graduate and proud 🥈 university ranker with a deep passion for building 🔧 scalable & user-centric applications.  
+👨‍💻 Java is my primary tech weapon, but I love exploring all things 🔍 **tech**.  
+🎤 A confident speaker, lifelong learner 📚, and always curious about what's next in tech!  
+🌏 I thrive on collaboration and love exchanging ideas 🤝 with fellow devs and learners.  
 
 ---
 
@@ -50,12 +50,12 @@
 
 ### 🚀 Currently
 
-- 🔭 Working on: **Building Logic and Real-World Projects**
-- 🌱 Learning: **Data Structures, Algorithms & Backend Development**
-- 👯 Open to: **Collaborating on Web/Java Projects**
-- 📫 Reach me at: **[udaygopalpalli@gmail.com](mailto:udaygopalpalli@gmail.com)**
-- 😄 Pronouns: **He/Him**
-
+- 🔭 Working on: **Building Logic and Real-World Projects** 🧩
+- 🌱 Learning: **Data Structures, Algorithms & Backend Development** 📘
+- 👯 Open to: **Collaborating on Web/Java Projects** 🤝
+- 📫 Reach me at: **[udaygopalpalli@gmail.com](mailto:udaygopalpalli@gmail.com)** 📬
+- 😄 Pronouns: **He/Him** 🙋‍♂️
+- 🧃 Fun Fact: I debug better with caffeine ☕😄
 
 ---
 
@@ -73,4 +73,4 @@
 
 ---
 
-<p align="center"><i>“The only way to do great work is to love what you do.” – Steve Jobs</i></p>
+<p align="center"><i>💬 “The only way to do great work is to love what you do.” – Steve Jobs 💡</i></p>
