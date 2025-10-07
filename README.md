@@ -1,6 +1,6 @@
 <h1 align="center">Hello Coders!! 👋</h1>
 <h2 align="center">I'm Uday Palli 🙋‍♂️</h2>
-<h4 align="center">💻 Aspiring Full-Stack Java Developer | 🎓 MCA @ PAHSU | 🥈 2nd Ranker | 💡 Code Enthusiast</h4>
+<h4 align="center">💻 Aspiring Full-Stack Java Developer | 🎓 MCA @ PAHSU |  Gold Medalist & 1st Ranker | 💡 Code Enthusiast</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udaypalli&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
