@@ -10,7 +10,7 @@
 
 ---
 
-🎯 I’m Uday, an MCA graduate and proud 🥈 university ranker with a deep passion for building 🔧 scalable & user-centric applications.  
+🎯 I’m Uday, an MCA graduate and proud university gold medalist with a deep passion for building 🔧 scalable & user-centric applications.  
 👨‍💻 Java is my primary tech weapon, but I love exploring all things 🔍 **tech**.  
 🎤 A confident speaker, lifelong learner 📚, and always curious about what's next in tech!  
 🌏 I thrive on collaboration and love exchanging ideas 🤝 with fellow devs and learners.  
